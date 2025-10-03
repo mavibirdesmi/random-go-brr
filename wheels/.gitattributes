@@ -1,0 +1,2 @@
+deepspeed-c0.17.7+7d9a2f2b-cuda12.9torch2.8-cp311-cp311-linux_x86_x64.whl filter=lfs diff=lfs merge=lfs -text
+flash_attn_3-3.0.0b1+cu12torch2.8cxx17abiFALSE-cp311-cp311-linux_x86_64.whl filter=lfs diff=lfs merge=lfs -text
